@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280px" height="560px" viewBox="0 0 1280 560">
+<g opacity="1" stroke="url(#svgPthGrdnt)" fill="none" stroke-width="2" stroke-miterlimit="10">
+	<path d="M0,125.8C452.8-161.3,862.4,428.3,1280,0"/>
+	<path d="M0,187.8C445.8-197,859.4,503.9,1280,47.1"/>
+	<path d="M0,249.8C438.8-232.7,856.5,579.4,1280,94.1"/>
+	<path d="M0,311.9C431.8-268.4,853.5,655,1280,141.2"/>
+	<path d="M0,373.9C424.8-304,850.5,730.6,1280,188.3"/>
+	<path d="M0,435.9c417.7-775.6,847.5,370.3,1280-200.6"/>
+	<path d="M0,498c410.7-873.3,844.5,383.9,1280-215.5"/>
+	<path d="M0,560c403.7-971.1,841.6,397.4,1280-230.5"/>
+</g>
+<linearGradient id="svgPthGrdnt" gradientUnits="userSpaceOnUse" x1="0" y1="280" x2="1280" y2="280">
+	<stop offset="0" style="stop-color:#8147d1;stop-opacity:0.3"/>
+	<stop offset="0.3" style="stop-color:#8147d1;stop-opacity:0"/>
+  <stop offset="0.6" style="stop-color:#8147d1;stop-opacity:0.15"/>
+	<stop offset="1" style="stop-color:#8147d1;stop-opacity:0.36"/>
+</linearGradient>
+</svg>
